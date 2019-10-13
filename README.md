@@ -1,6 +1,6 @@
 # 黑苹果实用工具
-设备：`ASUS-N552VW-vivobook`\n
-版本：`macOS Catalina 10.15`
++ 设备：`ASUS-N552VW-vivobook`
++ 版本：`macOS Catalina 10.15`
 
 ### VoodooBattery.kext
 完美电量显示扩展
