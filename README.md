@@ -2,7 +2,6 @@
 设备：`ASUS-N552VW-vivobook`  
 版本：`macOS Catalina 10.15`
 
----
 > **工作正常**  
 + 电池
 + 屏幕
