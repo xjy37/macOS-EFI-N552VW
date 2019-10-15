@@ -1,6 +1,6 @@
 <p align="center">黑苹果实用工具</p>
 
-设备：`ASUS-N552VW-vivobook`  
+设备：`ASUS N552VW vivobook`  
 版本：`macOS Catalina 10.15`
 > **VoodooBattery.kext**  
 
